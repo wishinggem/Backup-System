@@ -1,0 +1,3 @@
+Current Build only supports backing up from adn to local drives 
+
+SMB shares will come in next build
